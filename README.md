@@ -1,5 +1,5 @@
 # Logica-em-Java
-Este repositório tem como objetivo desenvolver a lógica com a linguagem Java, as questões foram desenvolvidas por Ricardo Satoshi, docente do Centro Paula Souza.
+Este repositório tem como objetivo desenvolver a lógica com a linguagem Java, as questões foram propostas por Ricardo Satoshi, docente do Centro Paula Souza.
 
 Lista: 
                                      Lote 1.1
